@@ -27,4 +27,4 @@ The application is designed according to the MVC pattern:
     - You must add functionality to *model*, *controller* and *view*.
 
 6. Implement the code necessary to add to "*Statistics*" information about the list of persons isolated in the network.
-    Note: You should create a new method in UniversityNetwork that return the list of isolated Persons
+    Note: You should create a new method in UniversityNetwork that returns the list of isolated Persons
