@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ADTGraph_Usage_Template" />
+        <module name="Tutorial_6_MVC_Template" />
+        <module name="Tutorial6Template" />
       </profile>
     </annotationProcessing>
   </component>
